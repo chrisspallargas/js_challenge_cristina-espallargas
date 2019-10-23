@@ -1,0 +1,31 @@
+.feature-wrapper{
+    display:flex;
+    position: relative;
+
+    .feature-icon{
+        position: relative;
+        height:30px;
+        width:30px;
+        margin: 0 8px;
+    
+        .feature-number{
+            position: absolute;
+            right:0;
+            top:0;
+            background-color:teal;
+            font-size:9px;
+            color:white;
+            height:15px;
+            width:15px;
+            border-radius:7.5px;
+            margin-top: -10px;
+            margin-right: -4px;
+            text-align: center;
+        }
+        .feature-img{
+            position: absolute;
+            left:0;
+            bottom:10;
+        }
+    }
+}

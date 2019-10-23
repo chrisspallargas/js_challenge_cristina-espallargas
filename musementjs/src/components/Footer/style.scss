@@ -1,0 +1,17 @@
+.footer-wrapper{
+    display:flex;
+    justify-content: flex-start;
+    background-color:white;
+    border-radius: 10px;
+    height: 40px;
+    align-items: center;
+    width:95%;
+    margin:0 auto;
+    margin-bottom:15px;
+    margin-top:20px;
+
+
+    .footer-title{
+        margin-left:10px;
+    }
+}
