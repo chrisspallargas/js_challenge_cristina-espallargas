@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.5a8f2f4a.chunk.css",
-    "main.js": "/static/js/main.bacc7279.chunk.js",
-    "main.js.map": "/static/js/main.bacc7279.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.77b8e533.js",
-    "runtime-main.js.map": "/static/js/runtime-main.77b8e533.js.map",
-    "static/js/2.ac0ac14c.chunk.js": "/static/js/2.ac0ac14c.chunk.js",
-    "static/js/2.ac0ac14c.chunk.js.map": "/static/js/2.ac0ac14c.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.f19ebb3870f0099c1e5a8647b41dba54.js": "/precache-manifest.f19ebb3870f0099c1e5a8647b41dba54.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.5a8f2f4a.chunk.css.map": "/static/css/main.5a8f2f4a.chunk.css.map",
-    "static/media/style.scss": "/static/media/Lato-Regular.7f690e50.ttf",
-    "static/media/arrow-left.svg": "/static/media/arrow-left.7ac5cfe9.svg",
-    "static/media/arrow-right.svg": "/static/media/arrow-right.01ef9ef2.svg",
-    "static/media/bag.svg": "/static/media/bag.5b66f6d5.svg",
-    "static/media/wishlist.svg": "/static/media/wishlist.e0dade6c.svg"
+    "main.css": "./static/css/main.6cf6cf6f.chunk.css",
+    "main.js": "./static/js/main.e5f3c32d.chunk.js",
+    "main.js.map": "./static/js/main.e5f3c32d.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.a346b55e.js",
+    "runtime-main.js.map": "./static/js/runtime-main.a346b55e.js.map",
+    "static/js/2.ac0ac14c.chunk.js": "./static/js/2.ac0ac14c.chunk.js",
+    "static/js/2.ac0ac14c.chunk.js.map": "./static/js/2.ac0ac14c.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.9005663b68b34d65733fcedd24464243.js": "./precache-manifest.9005663b68b34d65733fcedd24464243.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/main.6cf6cf6f.chunk.css.map": "./static/css/main.6cf6cf6f.chunk.css.map",
+    "static/media/style.scss": "./static/media/Lato-Regular.7f690e50.ttf",
+    "static/media/arrow-left.svg": "./static/media/arrow-left.549a8579.svg",
+    "static/media/arrow-right.svg": "./static/media/arrow-right.5d1fa2b8.svg",
+    "static/media/bag.svg": "./static/media/bag.abb11376.svg",
+    "static/media/wishlist.svg": "./static/media/wishlist.0bb927b7.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.77b8e533.js",
+    "static/js/runtime-main.a346b55e.js",
     "static/js/2.ac0ac14c.chunk.js",
-    "static/css/main.5a8f2f4a.chunk.css",
-    "static/js/main.bacc7279.chunk.js"
+    "static/css/main.6cf6cf6f.chunk.css",
+    "static/js/main.e5f3c32d.chunk.js"
   ]
 }
