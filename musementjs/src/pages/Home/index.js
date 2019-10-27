@@ -28,7 +28,7 @@ class Home extends Component{
     }
 
     changeCurrentPage = (newCurrent) =>{
-        this.props.history.push('/page/'+newCurrent);
+        this.props.history.push('page'+newCurrent);
         this.setState({currentPage:newCurrent});
     }
 
