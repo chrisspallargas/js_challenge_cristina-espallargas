@@ -1,3 +1,6 @@
+### Demo: https://chrisspallargas.github.io/musementjs/
+I decided to make a build of the app, and upload it to github pages in order to make it easier to visit.
+
 ## Technology decisions to reach the Main Goals
 
 * Develop a simple build system for your application
